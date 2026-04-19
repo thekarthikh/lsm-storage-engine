@@ -1,0 +1,2 @@
+JMH S 40 com.lsm.benchmark.StorageEngineBenchmark S 71 com.lsm.benchmark.jmh_generated.StorageEngineBenchmark_testRead_jmhTest S 8 testRead S 10 Throughput E A 1 1 1 E I 1 2 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 7 SECONDS E E 
+JMH S 40 com.lsm.benchmark.StorageEngineBenchmark S 72 com.lsm.benchmark.jmh_generated.StorageEngineBenchmark_testWrite_jmhTest S 9 testWrite S 10 Throughput E A 1 1 1 E I 1 2 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 7 SECONDS E E 
