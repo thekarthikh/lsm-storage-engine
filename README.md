@@ -27,7 +27,7 @@ A high-performance Log-Structured Merge-tree (LSM-tree) storage engine implement
 - **Tombstones**: Deletions are handled via tombstones, which are purged during compaction.
 
 ## Performance
-- **Write Throughput**: Targeted at 100K+ ops/sec.
+- **Write Throughput**: Targeted at 190K+ ops/sec.
 - **Read Latency**: Minimized via Bloom Filters and efficient indexing.
 - **Durability**: Guaranteed via `fsync` on the WAL.
 
