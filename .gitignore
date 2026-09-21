@@ -1,0 +1,11 @@
+target/
+*.class
+*.log
+.vscode/
+bench_data/
+data/
+lsm-data/
+*.tmp
+*.db
+wal.log
+wal_*.log
