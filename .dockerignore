@@ -1,0 +1,10 @@
+target/
+.git/
+.vscode/
+*.log
+*.tmp
+*.db
+bench_data/
+Dockerfile
+docker-compose.yml
+docker-compose.yaml
